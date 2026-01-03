@@ -9,8 +9,6 @@ I'm a dedicated coder with a passion for learning and creating innovative soluti
 ## 💻 Tech Stack
 
 **Languages:**
-- Java
-- Python
 - JavaScript
 - Java
 
@@ -21,17 +19,12 @@ I'm a dedicated coder with a passion for learning and creating innovative soluti
 
 **Backend:**
 - Node.js
-- RESTful APIs
 
 **Tools & Platforms:**
 - Git & GitHub
 - VS Code
+- Eclipse
 
-## 📊 GitHub Stats
-
-![SanjayTheCoder293's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjayTheCoder293&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayTheCoder293&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
 
@@ -48,9 +41,8 @@ I'm a dedicated coder with a passion for learning and creating innovative soluti
 
 ## 📫 Get in Touch
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: [gmsanjay793@gmail.com](gmsanjay793@gmail.com)
+- 💼 LinkedIn: [Sanjay-gm]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanjay-gm-81b152227/))
 
 ## 🤝 Let's Connect!
 
