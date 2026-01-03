@@ -42,7 +42,7 @@ I'm a dedicated coder with a passion for learning and creating innovative soluti
 ## 📫 Get in Touch
 
 - 📧 Email: [gmsanjay793@gmail.com](gmsanjay793@gmail.com)
-- 💼 LinkedIn: [Sanjay-gm]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanjay-gm-81b152227/))
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanjay-gm-81b152227/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanjay-gm-81b152227/))
 
 ## 🤝 Let's Connect!
 
